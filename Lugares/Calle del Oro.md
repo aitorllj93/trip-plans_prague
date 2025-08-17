@@ -1,9 +1,15 @@
 ---
+"@type": Place
+address: Zlatá ulička u Daliborky, 119 00 Praha 1-Hradčany, Chequia
+description: Pequeña calle con casas de colores que se proyectó en el siglo XVI para los guardias del castillo.
+identifier: ChIJmefjJOCUC0cR8CgUINxDQm8
+url: https://maps.google.com/?cid=8017044899382962416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA
 location:
   - 50.09185806192591, 14.403828584286194
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrh270Tb7d9fKJLCjd7OjVsAVOvLIbzll3te5iq6OtyqJ9TfoyFiV_PtbbJie2H7UJ0c6mk59lysuCdAaFw9odDTKH59EetvcTjETbd6KnBhG3exO8h5yGDDrQwmaN_4wI2Dqw=w408-h306-k-no
+cover: "[[Calle del Oro.jpg]]"
 tags:
-  - street
+  - types/route
 aliases:
+  - Golden Lane
   - Zlatá ulička u Daliborky
 ---

@@ -1,7 +1,9 @@
 ---
-location:
-  - 50.08233233422418, 14.406191398665758
-tags:
-  - monument
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8vv8EDvne6UGdYOh43IydgP3bRt7muYGfDBUTpUYHdLVY5FWin3Q7VKGTq8mhdHnzYdB2nK_WOsEvk-UQBMFlHo96UC6U-uryA2UsSicUc6fWmP7fgdcWCUDNchvHkT9qipri=w408-h306-k-no
+"@type": "Place"
+address: "Malá Strana, Praga 1, Chequia"
+identifier: "ChIJ_5qp6OOUC0cRiIsRZh2y8sg"
+url: "https://maps.google.com/?cid=14479831591285787528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA"
+location: ["50.08233233422418, 14.406191398665758"]
+tags: ["types/neighborhood","types/political"]
+cover: "[[Malá Strana.jpg]]"
 ---

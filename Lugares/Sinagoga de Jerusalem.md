@@ -1,9 +1,23 @@
 ---
-location:
-  - 50.08488396091252, 14.432058887093293
-tags:
-  - temple
-aliases:
-  - Jeruzalémská synagoga
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkr-Gs3JNWrW9fB3GmHzWRIzxx55yIPwlD8AJ4EYCOQe1V9aritV5k4S3Ud5LLfWRd1v8ar7evswZQJ-AkcY2Xj4QMcMe5x5qXZPm82Ow3PSAiysepXGTa29WVxOe5dAPcMtaV=w408-h306-k-no
+"@type": "Place"
+additionalType: "synagogue"
+address: "Jeruzalémská 1310/7, Jeruzalémská 7, 110 00 Praha 1-Nové Město, Chequia"
+description: "Sinagoga de principios del siglo XX, con elementos de estilo art nouveau y arquitectura árabe."
+identifier: "ChIJO_W-fZOUC0cRramNCQnVkuA"
+url: "https://maps.google.com/?cid=16182230645887314349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA"
+location: ["50.08488396091252, 14.432058887093293"]
+tags: ["types/synagogue","types/tourist_attraction","types/place_of_worship","types/museum","types/point_of_interest","types/establishment"]
+aliases: ["Jerusalem Synagogue","Jeruzalémská synagoga"]
+cover: "[[Sinagoga de Jerusalem.jpg]]"
 ---
+
+## Horario
+
+| Día  | Apertura  | Cierre  |
+|---|---|---|
+| lunes | 10:00 | 17:00 |
+| martes | 10:00 | 17:00 |
+| miércoles | 10:00 | 17:00 |
+| jueves | 10:00 | 17:00 |
+| viernes | 10:00 | 17:00 |
+| sábado | 10:00 | 17:00 |

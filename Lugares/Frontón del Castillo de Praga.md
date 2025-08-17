@@ -1,9 +1,11 @@
 ---
-aliases:
-  - Míčovna Pražského hradu
-tags:
-  - building
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nox8TN-ToPbxf-_8MQh6jHjoSWrWystTP__y6sn7QCTga4GJlzSdpAcBXK18049SgEijqwNP9wPSxZb8h8Fg74-45GFJMxaSmc97b79DAELBdjKR8gonLzQzZM8Sizu5cQUuKx8=w408-h306-k-no
-location:
-  - 50.09258159931873, 14.401195977116087
+"@type": "Place"
+additionalType: "museum"
+address: "118 00 Praga 1, Chequia"
+identifier: "ChIJ4zhKvB-VC0cRzTSgbX7dQps"
+url: "https://maps.google.com/?cid=11187747959416566989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA"
+location: ["50.09258159931873, 14.401195977116087"]
+aliases: ["Ball Room of Prague Castle","Míčovna Pražského hradu"]
+tags: ["types/museum","types/tourist_attraction","types/point_of_interest","types/establishment"]
+cover: "[[Frontón del Castillo de Praga.jpg]]"
 ---

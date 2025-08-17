@@ -1,9 +1,18 @@
 ---
-aliases:
-  - Tančící dům
+"@type": Place
+additionalType: landmark
+address: Jiráskovo nám. 1981/6, 120 00 Praha 2-Nové Město, Chequia
+description: Moderno edificio con curvas del arquitecto Frank Gehry, con restaurante en el último piso y vista de la ciudad.
+identifier: ChIJFz83wvaUC0cRRDMLBTdlAZM
+url: https://maps.google.com/?cid=10592859085534344004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA
 location:
   - 50.07578752965978, 14.414090875331219
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4no1xXB7xF0U-DxBmSHxY--ZKp8EiplLE02Vd8kpzFRjADyeizi9N8T2_gPNEyPf0cur3KHGrZj6fYGo5pHD6hPLls2scHc6sqRUI7TJCFEPf5dzAKm3cwQZ5MOtLn1a82w43DfN=w408-h276-k-no
+aliases:
+  - Tančící dům
+cover: "[[Casa Danzante.jpg]]"
 tags:
-  - building
+  - types/landmark
+  - types/tourist_attraction
+  - types/point_of_interest
+  - types/establishment
 ---

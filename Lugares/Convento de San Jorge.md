@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Klášter svatého Jiří
-  - St. George's Convent, Prague
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKrAJWJ-r03bhxWhQPnijgSH32XZZhbDHEZubdKlr6UFobLjKcZr3FTzkzkqhXXupkm0lBLiodPN_s21LdLSDshU9Kf7f82kD52_zryOt6vszd_q2mG3KA0DBWAcupRF66C1Z9=w408-h544-k-no
-tags:
-  - temple
-location:
-  - 50.091389844268065, 14.402608312080789
+"@type": "Place"
+additionalType: "place_of_worship"
+address: "nám. U Svatého Jiří 33/5, 119 00 Praha 1-Hradčany, Chequia"
+identifier: "ChIJS0RBKeCUC0cR_iqh8hTeajQ"
+url: "https://maps.google.com/?cid=3777075419054942974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA"
+location: ["50.091389844268065, 14.402608312080789"]
+aliases: ["St. George's Convent, Prague","Klášter svatého Jiří"]
+cover: "[[Convento de San Jorge.jpg]]"
+tags: ["types/tourist_attraction","types/place_of_worship","types/point_of_interest","types/establishment"]
 ---

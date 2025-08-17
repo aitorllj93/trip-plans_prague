@@ -1,9 +1,12 @@
 ---
-location:
-  - 50.08605250372773, 14.423650076556786
-aliases:
-  - Stavovské divadlo
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr65PmMG87essAt4BLi5osQ2Dt4vkd9-C3dR6Yf-VzC1qsbc7ghv33Z2iBHaeIWWheajzQEMLDxru3cVOdmAFbzN_JLYB8iHZYbI_gEPuF_WVqV_-8VweZa_PnYtKY1z2vxbVXK=w408-h306-k-no
-tags:
-  - building
+"@type": "Place"
+additionalType: "performing_arts_theater"
+address: "Železná, 110 00 Praha 1-Staré Město, Chequia"
+description: "Teatro elegante, abierto de forma continua desde 1783, en el que se representan funciones de ópera, ballet y obras dramáticas."
+identifier: "ChIJKatTv-iUC0cRCTSHs2hbV3Q"
+url: "https://maps.google.com/?cid=8383269736620176393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA"
+location: ["50.08605250372773, 14.423650076556786"]
+aliases: ["Stavovské divadlo"]
+cover: "[[Teatro Estatal.jpg]]"
+tags: ["types/performing_arts_theater","types/tourist_attraction","types/event_venue","types/point_of_interest","types/establishment"]
 ---

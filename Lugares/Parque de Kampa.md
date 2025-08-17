@@ -1,9 +1,17 @@
 ---
-location:
-  - 50.08394152939696, 14.407884921032622
-tags:
-  - park
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8kr1n5759xeZtph_Wtj3XFkk0EmKpwQ0H-SnR2CezaOixImXTbw1oghkfoAUCnQ6qjlmgYuAnyqikcG-hXa7eAmIIyxIRn6lw0-b6zCp_YFA-Y4nvaRIX58avCyVp8mSVbTcMcw=w408-h306-k-no
-aliases:
-  - Kampa
+"@type": "Place"
+additionalType: "park"
+address: "118 00 Praga 1, Chequia"
+identifier: "ChIJ4eTG7OSUC0cRXMru0PQo-Kk"
+url: "https://maps.google.com/?cid=12247584218576505436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA"
+location: ["50.08394152939696, 14.407884921032622"]
+tags: ["types/park","types/tourist_attraction","types/point_of_interest","types/establishment"]
+cover: "[[Parque de Kampa.jpg]]"
+aliases: ["Kampa"]
 ---
+
+## Horario
+
+| Día  | Apertura  | Cierre  |
+|---|---|---|
+| lunes | 00:00 | 23:59 |

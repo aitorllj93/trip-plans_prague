@@ -1,9 +1,17 @@
 ---
-aliases:
-  - Park Národního Probuzení
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2iAqEcOqdwLlYrp07oc7sr812bkxPYo4M_qXS_Hu5djA-KM9ikKMtlYdDa-T8ebEYWzAtmQ5ej-WBK3mAYiTHZEAf2VYZVefhYUGb5jDzE9bS5QZtebVvMujvO9mv5auwmzx6=w408-h544-k-no
-location:
-  - 50.082928851355476, 14.413481369574027
-tags:
-  - monument
+"@type": "Place"
+additionalType: "park"
+address: "Cdad. vieja, 110 00 Praga 1, Chequia"
+identifier: "ChIJ936RN22VC0cR5aIolrcYls4"
+url: "https://maps.google.com/?cid=14886112795097080549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA"
+location: ["50.082928851355476, 14.413481369574027"]
+aliases: ["Park Národního Probuzení"]
+cover: "[[Parque del Despertar Nacional.jpg]]"
+tags: ["types/park","types/point_of_interest","types/establishment"]
 ---
+
+## Horario
+
+| Día  | Apertura  | Cierre  |
+|---|---|---|
+| lunes | 00:00 | 23:59 |

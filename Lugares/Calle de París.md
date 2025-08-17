@@ -1,9 +1,14 @@
 ---
+"@type": Place
+address: Pařížská, 110 00 Praha 1-Staré Město, Chequia
+description: Avenida histórica con boutiques elegantes y cafeterías sofisticadas en edificios tradicionales.
+identifier: ChIJgTVLW-iUC0cRehGOW9x1lu4
+url: https://maps.google.com/?cid=17192058216822739322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQABgEIAA
 location:
   - 50.08950466202263, 14.419373954888771
-cover: https://lh3.googleusercontent.com/gps-cs-s/AC9h4noEh_XTDB19ATzZn9Uc04nRll4j9xvImh49Zven_EfGWLFX-Wo2yBqsiUa5QiBcfE3kxcAtzsnTjYZRBXt_W2f2f0fyAkrc0z7RsfeXy6HntteaPSz7vceCgbEQSxzTDmzmTzqO=w408-h306-k-no
+cover: "[[Calle de París.jpg]]"
 aliases:
   - Pařížská
 tags:
-  - street
+  - types/route
 ---
