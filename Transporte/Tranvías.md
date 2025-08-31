@@ -1,6 +1,6 @@
 ![[Plano-Tranvia.jpg]]
 
-Con el tranvía tienes acceso al centro de [Praga](https://czech-transport.com/index.php?id=203) y lugares, donde los [autobuses](https://czech-transport.com/index.php?id=149) no entran. Los tranvías en el centro de la ciudad están en servicio durante todo **el día y la noche**.
+Con el tranvía tienes acceso al centro de Praga y lugares, donde los [[Autobuses|autobuses]] no entran. Los tranvías en el centro de la ciudad están en servicio durante todo **el día y la noche**.
 
 **Tranvías nocturnos**  
 Durante la noche (a partir de medianoche hasta las 4,30 a.m.) operan las líneas nocturnas – números 51 a 59. Cada parada tiene el horario de los tranvías.

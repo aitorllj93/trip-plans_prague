@@ -1,0 +1,6 @@
+- ![[Codillo Asado]]
+- ![[Goulash]]
+- ![[Pato Asado]]
+- ![[Schnitzel]]
+- ![[Smažena Sýr]]
+- ![[Svičkova]]
